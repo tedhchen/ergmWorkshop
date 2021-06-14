@@ -1,5 +1,6 @@
 name: r_env
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - r=4.1.0
