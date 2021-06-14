@@ -1,0 +1,7 @@
+name: r_env
+channels:
+  - defaults
+dependencies:
+  - r=4.1.0
+  - r-irkernel
+  - jupyterlab
