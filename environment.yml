@@ -5,4 +5,4 @@ dependencies:
   - r-irkernel
   - r-devtools
   - r-network=1.17
-  - r-ergm=3.11.0
+  - r-ergm<4.0.0
